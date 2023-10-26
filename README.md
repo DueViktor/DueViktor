@@ -7,6 +7,9 @@
 <a href="https://scholar.google.dk/citations?view_op=list_works&hl=da&user=riT-IBsAAAAJ">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
 </a>
+<a href="mailto:viktorduep@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
 🧑🏼‍🎓 I'm a master student at the [IT-University of Copenhagen](https://en.itu.dk/).
 
