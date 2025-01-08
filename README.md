@@ -12,3 +12,5 @@
 🧑🏼‍🎓 I hold a master's degree and a bachelor's degree in Data Science from the [IT University of Copenhagen](https://en.itu.dk/).
 
 🧐 I have also held a research assistant position at [nlpnorth @ IT University of Copenhagen](https://nlpnorth.github.io/) and assisted at the [Center for Social Data Science (SODAS)](https://sodas.ku.dk), University of Copenhagen.
+
+![](https://github-contributor-stats.vercel.app/api?username=DueViktor&limit=5&theme=dark&combine_all_yearly_contributions=true)
